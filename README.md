@@ -1,6 +1,6 @@
 # ft_server-42
 
-Use "docker" tecology to install a complete web server. This server will run
+Use "docker" tecnology to install a complete web server. This server will run
 multiples services: Wordpress, phpMyAdmin, and a SQL database.
 
 
