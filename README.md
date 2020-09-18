@@ -1,9 +1,11 @@
 # ft_server-42
+100/100
 
+# Introduction
 Use "docker" tecnology to install a complete web server. This server will run
 multiples services: Wordpress, phpMyAdmin, and a SQL database.
 
-
+# Mandatory part
 - You must place all the necessary files for the configuration of your server in a folder
 called srcs.
 
